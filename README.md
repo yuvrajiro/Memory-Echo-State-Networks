@@ -1,2 +1,9 @@
 # Memory-Echo-State-Networks
-Memory Augmented Echo State Network - Optimized Cython Implementation  A **high-performance** Cython implementation of Echo State Network (ESN) reservoir with BLAS optimization and extensive activation function support.
+
+## Placeholder Repository
+
+This repository is currently a placeholder for the code accompanying the paper:
+
+**“FRACTIONAL AND WAVELET ECHO STATE NETWORKS FOR LONG-MEMORY TIME SERIES WITH AN APPLICATION TO DENGUE FORECASTING.”**
+
+The implementation and supporting resources will be added in a future update.
